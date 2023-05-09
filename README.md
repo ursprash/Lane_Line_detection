@@ -1,0 +1,2 @@
+# Lane_Line_detection
+we will use Python and OpenCV to detect lane lines in images. OpenCV stands for "Open- Source Computer Vision", which is a package that has many useful tools for analyzing frame /image. The tools we have are color selection, region of interest selection, grayscaling,  smoothing, canny curve Detection and Hough Tranform line detection whole process come under pipeline architecture.
